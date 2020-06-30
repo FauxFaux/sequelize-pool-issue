@@ -1,0 +1,16 @@
+{
+  "name": "v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p-map": "^4.0.0",
+    "pg": "^7.18.2",
+    "sequelize": "^4.44.4"
+  }
+}
